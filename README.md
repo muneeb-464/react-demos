@@ -116,7 +116,7 @@ ReactDOM.render(
 );
 ```
 
-## Demo04: Define a component
+## Demo04: Define-a-component
 
 [demo](http://ruanyf.github.io/react-demos/demo04/) / [source](https://github.com/ruanyf/react-demos/blob/master/demo04/index.html)
 
