@@ -61,7 +61,7 @@ Then play with the source files under the repo's demo* directories.
 
 ---
 
-## Demo01: Render JSX
+## Demo01: Render-JSX
 
 [demo](http://ruanyf.github.io/react-demos/demo01/) / [source](https://github.com/ruanyf/react-demos/blob/master/demo01/index.html)
 
