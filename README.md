@@ -21,7 +21,7 @@ $ git clone git@github.com:ruanyf/react-demos.git
 
 Then play with the source files under the repo's demo* directories.
 
-## HTML Template
+## HTML Templates
 
 ```html
 <!DOCTYPE html>
